@@ -127,19 +127,26 @@
             ]
         },
         "18": {
-            "name": "Sukhoi Su-35 Flanker",
-            "liveries": [
-                 {
-                    "name": "UAE Flanker",
-                    "texture": [
-                        "https://i.ibb.co/v4K4vkF4/UAEAF-Su-35.jpg"
-                    ],
-                    "credits": "Nadech"
-                }
-            ],
-            "labels": [
-                "Texture"
-            ]
+          "name": "Sukhoi Su-35 Flanker",
+          "liveries": [
+            {
+              "name": "UAE Flanker",
+              "texture": [
+                "https://i.ibb.co/v4K4vkF4/UAEAF-Su-35.jpg"
+              ],
+              "credits": "Nadech"
+            },
+            {
+              "name": "UAEAF Su-35",
+              "texture": [
+                "https://i.ibb.co/Jw6Jfhp4/Su-35-UAEAF.png"
+              ],
+              "credits": "BorecPepik"
+            }
+          ],
+          "labels": [
+            "Texture"
+          ]
         },
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
@@ -642,15 +649,20 @@
             ]
         },
         "5193": {
-            "name": "Boeing b747-8I",
-            "liveries": [
-                
-            ],
-            "labels": [
-                "Texture",
-                "Wing texture"
-            ]
-            
+          "name": "Boeing b747-8I",
+          "liveries": [
+            {
+              "name": "UAEAF 747-8I",
+              "texture": [
+                "https://i.ibb.co/QFkfWbdW/747-8-UAE.png",
+              ],
+              "credits": "BorecPepik"
+            }
+          ],
+          "labels": [
+            "Texture",
+            "Wing texture"
+          ]
         },
         "2857": {
             "name": "Lokheed Martin F22 Raptor",
@@ -819,7 +831,17 @@
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
                     ],
                     "credits": "BorecPepik"
-                }          
+                },
+            {
+                  "name": "UAEAF Rafale-4",
+                  "texture": [
+                    "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
+                    "https://i.ibb.co/27ywcBhk/rafale-sand-camo-3.png",
+                    "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
+                    "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
+                  ],
+                  "credits": "BorecPepik"
+                },
                 
             ],
             "labels":[
@@ -930,12 +952,26 @@
             ]
         },
         "5431": {
-            "name": "Northrop YF-23",
-            "liveries": [
-            ],
-            "labels": [
-                "Texture"
-            ]
+          "name": "Northrop YF-23",
+          "liveries": [
+            {
+              "name": "UAEAF YF-23 grey",
+              "texture": [
+                "https://i.ibb.co/ZRGqvM3c/YF-23-grey.png"
+              ],
+              "credits": "thesupremeguy"
+            },
+            {
+              "name": "UAEAF YF-23 black",
+              "texture": [
+                "https://i.ibb.co/yFKXzLzR/YF-23-black.png"
+              ],
+              "credits": "thesupremeguy"
+            }
+          ],
+          "labels": [
+            "Texture"
+          ]
         },
         "240": {
             "name": "Boeing b777-200",
