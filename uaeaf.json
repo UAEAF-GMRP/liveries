@@ -952,27 +952,40 @@
             ]
         },
         "5431": {
-          "name": "Northrop YF-23",
-          "liveries": [
-            {
-              "name": "UAEAF YF-23 grey",
-              "texture": [
-                "https://i.ibb.co/ZRGqvM3c/YF-23-grey.png"
+              "index": [
+                0
               ],
-              "credits": "thesupremeguy"
+              "parts": [
+                0
+              ],
+              "mp": [
+                {
+                  "modelIndex": 0,
+                  "textureIndex": 0
+                }
+              ],
+              "liveries": [
+                {
+                  "name": "UAEAF YF-23 grey",
+                  "texture": [
+                    "https://i.ibb.co/ZRGqvM3c/YF-23-grey.png"
+                  ],
+                  "credits": "thesupremeguy"
+                },
+                {
+                  "name": "UAEAF YF-23 black",
+                  "texture": [
+                    "https://i.ibb.co/yFKXzLzR/YF-23-black.png"
+                  ],
+                  "credits": "thesupremeguy"
+                }
+              ],
+              "labels": [
+                "Texture"
+              ],
+              "logo": true,
+              "name": "Northrop YF-23"
             },
-            {
-              "name": "UAEAF YF-23 black",
-              "texture": [
-                "https://i.ibb.co/yFKXzLzR/YF-23-black.png"
-              ],
-              "credits": "thesupremeguy"
-            }
-          ],
-          "labels": [
-            "Texture"
-          ]
-        },
         "240": {
             "name": "Boeing b777-200",
             "liveries": [
