@@ -1,5 +1,5 @@
 {
-  "name": "🔰✌🏽 United Arab Air Force - Testing🔰",
+  "name": "🔰✌🏽 United Arab Air Force - GeoFS🔰",
   "color": "red",
   "bgcolor": "#f0d795",
   "aircrafts": {
@@ -510,15 +510,7 @@
     },
     "2856": {
       "name": "Airbus a330-200",
-      "liveries": [
-        {
-          "name": "UAE A330-200",
-          "texture": [
-            "https://i.ibb.co/jvC9bFJh/UAE-a330.jpg"
-          ],
-          "credits": "BorecPepik"
-        }
-      ],
+      "liveries": [],
       "labels": [
         "Texture"
       ]
@@ -805,10 +797,11 @@
           "credits": "Boeing737-8Max"
         },
         {
-          "name": "UAE A330-900neo",
+          "name": "UAE a330 2026",
           "texture": [
             "https://i.ibb.co/jvC9bFJh/UAE-a330.jpg"
-          ]
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
