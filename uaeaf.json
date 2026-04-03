@@ -192,6 +192,88 @@
         "Texture"
       ]
     },
+    "2581": {
+            "index": [
+                1,
+                0,
+                0
+            ],
+            "parts": [
+                0,
+                0,
+                0
+            ],
+            "mp": "disabled",
+            "liveries": [
+                {
+                    "name": "US Navy - VF-105",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f14/F14 Sprite Sheet.png",
+                        {
+                            "material": 0
+                        },
+                        {
+                            "material": 1
+                        }
+                    ],
+                    "materials":[
+                        {
+                            "name": "Fuse Main",
+                            "baseColorFactor": [
+                                0.458822,
+                                0.466658,
+                                0.486265
+                            ]
+                        },
+                        {
+                            "name": "Fuse Black",
+                            "baseColorFactor": [
+                                0.07451,
+                                0.07451,
+                                0.07451
+                            ]
+                        }
+                    ],
+                    "credits": "Eco[LAC]"
+                },
+                {
+                    "name": "UAEAF f-15 Arnold Schwarzenegger",
+                    "texture": [
+                        "https://i.ibb.co/tMhD6dVM/UAEAF-F-14-2.png",
+                        {
+                            "material": 0
+                        },
+                        {
+                            "material": 1
+                        }
+                    ],
+                    "materials":[
+                        {
+                            "name": "Fuse Main",
+                            "baseColorFactor": [
+                                0.458822,
+                                0.466658,
+                                0.486265
+                            ]
+                        },
+                        {
+                            "name": "Fuse Black",
+                            "baseColorFactor": [
+                                0.07451,
+                                0.07451,
+                                0.07451
+                            ]
+                        }
+                    ],
+                    "credits": "arnoldthewolf"
+                }              
+            ],
+            "labels":[
+                "Texture"
+            ],
+            "logo": true,
+            "name": ""
+        },
     "21": {
       "name": "Zlin Z-50",
       "liveries": [],
