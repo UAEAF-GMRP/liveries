@@ -5,6 +5,8 @@ name: Deploy static livery page
 on:
   push:
     branches: ["main"]
+    paths:
+      - "livery-validate.html"   # only trigger when this file changes
   workflow_dispatch:
 
 permissions:
@@ -30,7 +32,6 @@ jobs:
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
-      # Optional verification step (helps debug path issues)
       - name: Verify livery-validate.html exists
         run: |
           if [ ! -f "./livery-validate.html" ]; then
