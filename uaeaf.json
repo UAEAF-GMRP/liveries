@@ -973,6 +973,13 @@
             "https://i.ibb.co/jvC9bFJh/UAE-a330.jpg"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAE Anniversary Edition",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-Anniversary-Edition-A330.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
