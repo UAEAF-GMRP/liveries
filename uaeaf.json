@@ -213,13 +213,6 @@
             "https://i.ibb.co/xt4SHmp3/UAEAF-Su-35.jpg"
           ],
           "credits": "BorecPepik"
-        },
-        {
-          "name": "Su-35 3",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-su-35-boeing.png"
-          ],
-          "credits": "boeing7378max"
         }
       ],
       "labels": [
@@ -901,6 +894,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAEAF-F15.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF F-15 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-15-boeing.png"
+          ],
+          "credits": "boeing7378max"
         }
       ],
       "labels": [
