@@ -894,6 +894,13 @@
             "https://i.ibb.co/DDJHCBfn/uae-f15.png"
           ],
           "credits": "Raptor4001"
+        },
+        {
+          "name": "UAEAF F-15 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAEAF-F15.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
