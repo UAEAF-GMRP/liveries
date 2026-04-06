@@ -66,9 +66,51 @@
       "name": "General Dynamics F16 Fighting Falcon",
       "liveries": [
         {
-          "name": "Al Nasr Demonstration Team - 4 ",
+          "name": "UAEAF Al Nasr 1",
           "texture": [
-            "https://i.ibb.co/C3pLs3kH/Nasr-Al-Emarat-4.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-1.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-2.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-3.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 4",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-4.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 5",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-5.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 6",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-6.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 7",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-7.jpg"
           ],
           "credits": "BorecPepik"
         }
@@ -171,6 +213,13 @@
             "https://i.ibb.co/xt4SHmp3/UAEAF-Su-35.jpg"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Su-35 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-su-35-boeing.png"
+          ],
+          "credits": "boeing7378max"
         }
       ],
       "labels": [
@@ -245,6 +294,13 @@
           "name": "UAEAF F/A-18F",
           "texture": [
             "https://i.ibb.co/My8bQSXs/UAEAF-FA18.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF F/A-18 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-FA-18.jpg"
           ],
           "credits": "BorecPepik"
         }
@@ -581,7 +637,15 @@
     },
     "2806": {
       "name": "Sikorsky UH-60 Black Hawk",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAEAF UH-60",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-UH-60.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Texture"
       ]
@@ -658,7 +722,15 @@
     },
     "2864": {
       "name": "Leonardo - AugustaWestland AW609",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAEAF AW609",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-aw609.jpg"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Texture"
       ]
@@ -753,11 +825,11 @@
       "name": "Boeing p8I Neptune",
       "liveries": [
         {
-          "name": "UAEAF P8i",
+          "name": "UAEAF P8I",
           "texture": [
-            "https://i.ibb.co/tTfhd4mz/UAEp8i.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-p8i.jpg"
           ],
-          "credits": "Boeing737-8Max"
+          "credits": "boeing7378max"
         }
       ],
       "labels": [
@@ -1015,6 +1087,13 @@
             "https://i.ibb.co/kY2DmpQ/UAE-F-35-digital-camo.png"
           ],
           "credits": "valery3737"
+        },
+        {
+          "name": "UAEAF Al Nasr F-35",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/UAEAF-f-35-alnasr.jpg"
+          ],
+          "credits": "musab_fr [<3 murdered]"
         }
       ],
       "labels": [
