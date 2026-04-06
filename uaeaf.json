@@ -113,6 +113,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-7.jpg"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF F-16",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/F-16-UAEAF.jpg"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
@@ -632,11 +639,18 @@
       "name": "Sikorsky UH-60 Black Hawk",
       "liveries": [
         {
-          "name": "UAEAF UH-60",
+          "name": "UAEAF UH-60 1",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-UH-60.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF UH-60 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-UH-60-2.png"
+          ],
+          "credits": "Assassin 🍑"
         }
       ],
       "labels": [
@@ -975,9 +989,9 @@
           "credits": "BorecPepik"
         },
         {
-          "name": "UAE Anniversary Edition",
+          "name": "UAEAF 1st Anniversary Edition",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-Anniversary-Edition-A330.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A330-1Yr-Anniversary.png"
           ],
           "credits": "BorecPepik"
         }
