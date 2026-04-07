@@ -117,9 +117,8 @@
         {
           "name": "UAEAF F-16",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/F-16-UAEAF.jpg"
-          ],
-          "credits": "BorecPepik"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-16.jpg"
+          ]
         }
       ],
       "labels": [
@@ -388,6 +387,34 @@
         "Texture Right"
       ]
     },
+    "32": {
+        "index": [
+            1
+        ],
+        "parts": [
+            0
+        ],
+        "mp": [
+            {
+                "modelIndex": 0,
+                "textureIndex": 1
+            }
+        ],
+        "liveries": [
+            {
+                "name": "UAEAF T-38",
+                "texture": [
+                    "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-T-38.jpg"
+                ],
+                "credits": "BorecPepik"
+            }
+        ],
+        "labels": [
+            "Texture"
+        ],
+        "logo": true,
+        "name": "Northrop T-38 Talon"
+    },
     "40": {
       "name": "Evektor Sportstar",
       "liveries": [],
@@ -535,37 +562,6 @@
       ],
       "mp": "disabled",
       "liveries": [
-        {
-          "name": "US Navy - VF-105",
-          "texture": [
-            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f14/F14 Sprite Sheet.png",
-            {
-              "material": 0
-            },
-            {
-              "material": 1
-            }
-          ],
-          "materials": [
-            {
-              "name": "Fuse Main",
-              "baseColorFactor": [
-                0.458822,
-                0.466658,
-                0.486265
-              ]
-            },
-            {
-              "name": "Fuse Black",
-              "baseColorFactor": [
-                0.07451,
-                0.07451,
-                0.07451
-              ]
-            }
-          ],
-          "credits": "Eco[LAC]"
-        },
         {
           "name": "UAEAF f-15 Arnold Schwarzenegger",
           "texture": [
@@ -989,7 +985,7 @@
           "credits": "BorecPepik"
         },
         {
-          "name": "UAE 1st Anniversary Edition 🌟",
+          "name": "UAEAF 1st Anniversary Edition",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A330-1Yr-Anniversary.png"
           ],
