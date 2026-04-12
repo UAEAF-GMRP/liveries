@@ -163,7 +163,18 @@
     },
     "12": {
       "name": "Pilatus PC-7 Mk-I",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAEAF PC-7 Mk-1",
+          "texture": [
+            "/models/aircraft/premium/pilatus/normal.jpg",
+            "/models/aircraft/premium/pilatus/specular.jpg",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-PC-7.jpg",
+            "/models/aircraft/premium/pilatus/propblur.png"
+          ],
+          "credits": "borecpepik"
+        }
+      ],
       "labels": [
         "Normal map",
         "Specular shader",
@@ -234,6 +245,20 @@
             "https://i.ibb.co/PZCcGPDx/UAEAF-Concorde.png"
           ],
           "credits": "Nadech"
+        },
+        {
+          "name": "Concorde x B1 lancer (without roundel)",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-concorde-2-without-roundel.png"
+          ],
+          "credits": "borecpepik"
+        },
+        {
+          "name": "Concorde x B1 lancer (with roundel)",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-concorde-2-with-roundel.png"
+          ],
+          "credits": "borecpepik"
         }
       ],
       "labels": [
@@ -368,6 +393,16 @@
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
           ],
           "credits": "valery3737"
+        },
+        {
+          "name": "UAEAF Al-Nasr Rafale",
+          "texture": [
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/UAEAF-Nasr-Al-Emarat-rafale.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
@@ -388,32 +423,32 @@
       ]
     },
     "32": {
-        "index": [
-            1
-        ],
-        "parts": [
-            0
-        ],
-        "mp": [
-            {
-                "modelIndex": 0,
-                "textureIndex": 1
-            }
-        ],
-        "liveries": [
-            {
-                "name": "UAEAF T-38",
-                "texture": [
-                    "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-T-38.jpg"
-                ],
-                "credits": "BorecPepik"
-            }
-        ],
-        "labels": [
-            "Texture"
-        ],
-        "logo": true,
-        "name": "Northrop T-38 Talon"
+      "index": [
+        1
+      ],
+      "parts": [
+        0
+      ],
+      "mp": [
+        {
+          "modelIndex": 0,
+          "textureIndex": 1
+        }
+      ],
+      "liveries": [
+        {
+          "name": "UAEAF T-38",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-T-38.jpg"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ],
+      "logo": true,
+      "name": "Northrop T-38 Talon"
     },
     "40": {
       "name": "Evektor Sportstar",
@@ -522,7 +557,16 @@
     },
     "1014": {
       "name": "Ilyushin IL-76TD",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAE IL-76TD",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-1.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Fuselage texture",
         "Wing texture"
@@ -716,6 +760,14 @@
             "https://i.ibb.co/xSfmnCmm/spritofamerica-shader.png"
           ],
           "credits": "Raptor4001"
+        },
+        {
+          "name": "UAEAF F-22 Raptor 4",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-22-4.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
+          ],
+          "credits": "borecpepik"
         }
       ],
       "labels": [
@@ -833,6 +885,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-p8i.jpg"
           ],
           "credits": "boeing7378max"
+        },
+        {
+          "name": "UAE p8i 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-p8i-2.png"
+          ],
+          "credits": "tarunbeast"
         }
       ],
       "labels": [
@@ -1188,7 +1247,7 @@
           "texture": [
             "https://i.ibb.co/hGtY9x1/UAEAF-YF-23-grey.png"
           ],
-          "credits": "thesupremeguy"
+          "credits": "thesupremeone"
         }
       ],
       "labels": [
