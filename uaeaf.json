@@ -841,6 +841,34 @@
         "Texture"
       ]
     },
+    "2989": {
+      "index": [
+          0
+      ],
+      "parts": [
+          0
+      ],
+      "mp": [
+            {
+                "modelIndex": 0,
+                "textureIndex": 0
+            }
+      ],
+      "liveries": [
+          {
+                "name": "UAEAFReaper",
+                "texture": [
+                    "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MQ9.png"
+                ],
+                "credits": "BorecPepik"
+          }
+      ],
+      "labels": [
+          "Texture"
+        ],
+        "logo": true,
+        "name": "MQ9B Reaper"
+    }
     "3011": {
       "name": "Airbus a320-232",
       "liveries": [],
@@ -1243,11 +1271,18 @@
       ],
       "liveries": [
         {
-          "name": "UAEAF YF-23 Grey",
+          "name": "UAEAF YF-23 1 Grey",
           "texture": [
             "https://i.ibb.co/hGtY9x1/UAEAF-YF-23-grey.png"
           ],
-          "credits": "thesupremeone"
+          "credits": "thesupremeguy"
+        },
+        {
+          "name": "BorecPepik's personal YF-23",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/YF-23-borec-personal.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
