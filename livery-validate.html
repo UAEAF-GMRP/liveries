@@ -707,10 +707,10 @@
       <input type="file" id="fileInput" accept=".json" style="display:none">
       <button id="uploadBtn" onclick="fileInput.click()">📂 Upload JSON</button>
       <div id="fileNameDisplay">Drag &amp; drop a JSON file here, or click Upload</div>
-      <div style="margin-top:10px">
+      <div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-top:12px;">
+        <button onclick="loadWorkingJsonFromUrl('https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf.json')" class="secondary">🌟 Use Latest UAEAF JSON</button>
         <button id="normalizeBtn" onclick="normalize()" class="secondary" disabled>Normalize Indentation</button>
-        <button id="toggleAircraftBtn" onclick="toggleAircraft()" class="secondary" disabled>Minimize Aircraft
-          List</button>
+        <button id="toggleAircraftBtn" onclick="toggleAircraft()" class="secondary" disabled>Minimize Aircraft List</button>
       </div>
     </div>
 
@@ -848,6 +848,12 @@
       <div id="downloadArea" style="margin-top:16px">
         <button onclick="downloadJSON()">⬇ Download Updated JSON</button>
       </div>
+    </div>
+
+    <!-- ── Statistics ─────────────────────────────────────── -->
+    <div id="statsDiv" class="hidden" style="margin-top:20px; text-align:center; color:#94a3b8; font-size:0.9rem; padding: 12px; background: #020617; border: 1px solid #1e293b; border-radius: 12px;">
+      <div style="margin-bottom: 6px;">🏆 Top Contributor: <span id="topPlayerStat" style="color:#e2e8f0; font-weight:bold;">-</span></div>
+      <div>✈️ Aircraft with the Most Liveries: <span id="topAircraftStat" style="color:#e2e8f0; font-weight:bold;">-</span></div>
     </div>
 
     <!-- ── Footer ─────────────────────────────────────────── -->
@@ -1097,6 +1103,51 @@
     }
 
     // ═══════════════════════════════════════════════════════
+    //  Load working JSON from URL
+    // ═══════════════════════════════════════════════════════
+    async function loadWorkingJsonFromUrl(url) {
+      fileNameDisplay.textContent = "⏳ Fetching from URL…"
+      try {
+        let response = await fetch(url)
+        if (!response.ok) throw new Error("HTTP " + response.status)
+        let text = await response.text()
+        try {
+          jsonData = JSON.parse(text)
+          let { errors, mode } = validate(jsonData)
+          if (errors.length) {
+            validationDiv.innerHTML = "<div class='error'>" + errors.join("\n") + "</div>"
+            fileNameDisplay.textContent = "URL load — validation failed"
+            jsonData = null; setControlsEnabled(false); return
+          }
+          let modeLabel = mode === "squadron" ? "Squadron Pack" : mode === "community" ? "Community Pack" : "Unknown Format"
+          let totalLiv = Object.values(jsonData.aircrafts).reduce((s, a) => s + (Array.isArray(a.liveries) ? a.liveries.length : 0), 0)
+          let withLiv = Object.values(jsonData.aircrafts).filter(a => Array.isArray(a.liveries) && a.liveries.length > 0).length
+          let total = Object.keys(jsonData.aircrafts).length
+          fileNameDisplay.textContent = "📄 UAEAF Latest Copy"
+          validationDiv.innerHTML =
+            "<div class='success'>✅ Valid &mdash; <b>" + modeLabel + "</b><br>" +
+            total + " aircraft &nbsp;•&nbsp; " + withLiv + " with liveries &nbsp;•&nbsp; " + totalLiv + " total liveries</div>"
+          originalSnapshot = JSON.stringify(jsonData)
+          changes = []
+          setControlsEnabled(true)
+          populateJsonOptions()
+          updateBottomBar()
+          render()
+        } catch (err) {
+          jsonData = null
+          fileNameDisplay.textContent = "URL load — parse error"
+          setControlsEnabled(false)
+          validationDiv.innerHTML = "<div class='error'>" + syntaxErrorInfo(text, err) + "</div>"
+        }
+      } catch (err) {
+        jsonData = null
+        fileNameDisplay.textContent = "URL load failed"
+        setControlsEnabled(false)
+        validationDiv.innerHTML = "<div class='error'>❌ Failed to fetch from URL<br>" + err.message + "</div>"
+      }
+    }
+
+    // ═══════════════════════════════════════════════════════
     //  Render aircraft cards
     // ═══════════════════════════════════════════════════════
     function makeBrokenThumb(cls) {
@@ -1115,9 +1166,29 @@
       withDiv.innerHTML = ""
       withoutDiv.innerHTML = ""
 
+      let topAircraftName = "-"
+      let topAircraftCount = -1
+      let playerCounts = {}
+
       for (const id in jsonData.aircrafts) {
         let a = jsonData.aircrafts[id]
         let count = a.liveries.length
+
+        if (count > topAircraftCount) {
+          topAircraftCount = count
+          topAircraftName = a.name || id
+        }
+
+        if (count > 0) {
+          a.liveries.forEach(l => {
+            let cred = (l.credits || "").trim()
+            if (cred) {
+               let cl = cred.toLowerCase()
+               if (!playerCounts[cl]) playerCounts[cl] = { name: cred, count: 0 }
+               playerCounts[cl].count++
+            }
+          })
+        }
 
         let card = document.createElement("div")
         card.className = "card"
@@ -1169,6 +1240,26 @@
         } else {
           card.classList.add("grey")
           withoutDiv.appendChild(card)
+        }
+      }
+
+      let topPlayerName = "-"
+      let topPlayerCount = 0
+      for (const key in playerCounts) {
+        if (playerCounts[key].count > topPlayerCount) {
+          topPlayerCount = playerCounts[key].count
+          topPlayerName = playerCounts[key].name
+        }
+      }
+
+      let statsDiv = document.getElementById("statsDiv")
+      if (statsDiv) {
+        if (Object.keys(jsonData.aircrafts).length > 0) {
+          statsDiv.classList.remove("hidden")
+          document.getElementById("topPlayerStat").textContent = topPlayerCount > 0 ? (topPlayerName + " (" + topPlayerCount + ")") : "None"
+          document.getElementById("topAircraftStat").textContent = topAircraftCount > 0 ? (topAircraftName + " (" + topAircraftCount + ")") : "None"
+        } else {
+          statsDiv.classList.add("hidden")
         }
       }
     }
