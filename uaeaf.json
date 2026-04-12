@@ -842,21 +842,9 @@
       ]
     },
     "2989": {
-      "index": [
-          0
-      ],
-      "parts": [
-          0
-      ],
-      "mp": [
-            {
-                "modelIndex": 0,
-                "textureIndex": 0
-            }
-      ],
       "liveries": [
           {
-                "name": "UAEAFReaper",
+                "name": "UAEAF Reaper",
                 "texture": [
                     "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MQ9.png"
                 ],
@@ -866,7 +854,6 @@
       "labels": [
           "Texture"
         ],
-        "logo": true,
         "name": "MQ9B Reaper"
     },
     "3011": {
