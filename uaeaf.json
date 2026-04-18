@@ -581,7 +581,15 @@
     },
     "1023": {
       "name": "McDonnell Douglas MD11",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "McDonnell Douglas MD11",
+          "texture": [
+            "https://i.ibb.co.com/nqL0kGsz/KC-10-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Texture"
       ]
@@ -843,18 +851,18 @@
     },
     "2989": {
       "liveries": [
-          {
-                "name": "UAEAF Reaper",
-                "texture": [
-                    "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MQ9.png"
-                ],
-                "credits": "BorecPepik"
-          }
+        {
+          "name": "UAEAF Reaper",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MQ9.png"
+          ],
+          "credits": "BorecPepik"
+        }
       ],
       "labels": [
-          "Texture"
-        ],
-        "name": "MQ9B Reaper"
+        "Texture"
+      ],
+      "name": "MQ9B Reaper"
     },
     "3011": {
       "name": "Airbus a320-232",
