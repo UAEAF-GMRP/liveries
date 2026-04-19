@@ -1,5 +1,5 @@
 {
-  "name": "🇦🇪 United Arab Emirates GeoFS (Test) 🇦🇪",
+  "name": "🇦🇪 United Arab Emirates GeoFS Test 🇦🇪",
   "color": "red",
   "bgcolor": "#f0d795",
   "aircrafts": {
@@ -138,11 +138,11 @@
       "name": "Eurocopter EC135",
       "liveries": [
         {
-          "name": "UAEAF Eurocopter",
+          "name": "Eucopter",
           "texture": [
             "https://i.ibb.co.com/XkV4Lrq8/ec135-UAEAF.webp"
           ],
-          "credits": "BorecPepik 😘"
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
