@@ -1,5 +1,5 @@
 {
-  "name": "🇦🇪 United Arab Emirates GeoFS 🇦🇪",
+  "name": "🇦🇪 United Arab Emirates GeoFS (Test) 🇦🇪",
   "color": "red",
   "bgcolor": "#f0d795",
   "aircrafts": {
@@ -136,15 +136,7 @@
     },
     "9": {
       "name": "Eurocopter EC135",
-      "liveries": [
-        {
-          "name": "Eurocopter EC135",
-          "texture": [
-            "https://i.ibb.co/B5tjzbxt/ec135-UAEAF.png"
-          ],
-          "credits": "BorecPepik"
-        }
-      ],
+      "liveries": [],
       "labels": [
         "Normal map",
         "Specular shader",
@@ -1009,7 +1001,15 @@
     },
     "3617": {
       "name": "Dessault Mirage 2000-5",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAEAF Dassault Mirage",
+          "texture": [
+            "https://i.ibb.co.com/Lz1Bc43B/MIRAGE-2000-UAEAF.png"
+          ],
+          "credits": "BorecPepik 😘"
+        }
+      ],
       "labels": [
         "Texture"
       ]
