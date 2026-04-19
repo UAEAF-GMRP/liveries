@@ -136,7 +136,15 @@
     },
     "9": {
       "name": "Eurocopter EC135",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAEAF Eurocopter",
+          "texture": [
+            "https://i.ibb.co.com/XkV4Lrq8/ec135-UAEAF.webp"
+          ],
+          "credits": "BorecPepik 😘"
+        }
+      ],
       "labels": [
         "Normal map",
         "Specular shader",
