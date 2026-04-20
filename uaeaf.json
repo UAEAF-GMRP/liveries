@@ -14,11 +14,11 @@
       "name": "Cessna 172 Skyhawk",
       "liveries": [
         {
-          "name": "UAEAF C172",
+          "name": "",
           "texture": [
-            "https://i.ibb.co.com/wNKC5WrP/c172-UAEAF.png"
+            ""
           ],
-          "credits": "Borecpepik"
+          "credits": ""
         }
       ],
       "labels": [
