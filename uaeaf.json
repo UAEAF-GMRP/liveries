@@ -1,5 +1,5 @@
 {
-  "name": "🇦🇪 United Arab Emirates GeoFS TEST 🇦🇪",
+  "name": "🇦🇪 United Arab Emirates GeoFS Test 🇦🇪",
   "color": "red",
   "bgcolor": "#f0d795",
   "aircrafts": {
@@ -27,6 +27,14 @@
             "https://i.ibb.co/hRDvhyk9/UAEAF-Alpha-W.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Nasr-1",
+          "texture": [
+            "https://i.ibb.co.com/nNK9wP7L/al-nasr-alphajet-fuselage-1.webp",
+            "https://i.ibb.co.com/PZ3KdqGM/al-nasr-alphajet-wings.webp"
+          ],
+          "credits": "Borecpepik"
         }
       ],
       "labels": [
