@@ -1389,6 +1389,28 @@
       "labels": [
         "Texture"
       ]
-    }
+    },
+    "2310": {
+      "index":[
+          1
+      ],
+      "parts": [
+          0
+      ],
+      "liveries": [
+          {
+              "name": "UAE A10-C",
+              "texture": [
+                  "                https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A10.png"
+              ],
+              "credits": "BorecPepik"
+          }
+      ],
+      "labels": [
+          "Texture"
+      ],
+      "logo": true,
+      "name": "Fairchild A10-C Thunderbolt II"
+      }
   }
 }
