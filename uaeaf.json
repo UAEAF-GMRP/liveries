@@ -146,13 +146,6 @@
       "name": "Eurocopter EC135",
       "liveries": [
         {
-          "name": "Eucopter",
-          "texture": [
-            "https://i.ibb.co.com/XkV4Lrq8/ec135-UAEAF.webp"
-          ],
-          "credits": "BorecPepik"
-        },
-        {
           "name": "UAE EC135",
           "texture": [
             "/models/aircraft/premium/ec135/normals.jpg",
@@ -617,13 +610,6 @@
     "1023": {
       "name": "McDonnell Douglas MD11",
       "liveries": [
-        {
-          "name": "McDonnell Douglas MD11",
-          "texture": [
-            "https://i.ibb.co.com/nqL0kGsz/KC-10-UAEAF.png"
-          ],
-          "credits": "BorecPepik"
-        },
         {
           "name": "KC-10 extender",
           "texture": [
