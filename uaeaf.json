@@ -470,6 +470,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-T-38.jpg"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF T-38-2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-T-38-2.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
