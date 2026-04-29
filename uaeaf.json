@@ -1,5 +1,5 @@
 {
-  "name": "🇦🇪 United Arab Emirates GeoFS Test 🇦🇪",
+  "name": "🇦🇪 United Arab Emirates GeoFS 🇦🇪",
   "color": "red",
   "bgcolor": "#f0d795",
   "aircrafts": {
@@ -12,7 +12,15 @@
     },
     "2": {
       "name": "Cessna 172 Skyhawk",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAEAF C-172",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-c172.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Texture"
       ]
@@ -27,14 +35,6 @@
             "https://i.ibb.co/hRDvhyk9/UAEAF-Alpha-W.png"
           ],
           "credits": "BorecPepik"
-        },
-        {
-          "name": "UAEAF Nasr-1",
-          "texture": [
-            "https://i.imghippo.com/files/rfoB5937UsE.png",
-            "https://i.imghippo.com/files/s3658I.png"
-          ],
-          "credits": "Borecpepik"
         }
       ],
       "labels": [
@@ -151,6 +151,15 @@
             "https://i.ibb.co.com/XkV4Lrq8/ec135-UAEAF.webp"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAE EC135",
+          "texture": [
+            "/models/aircraft/premium/ec135/normals.jpg",
+            "/models/aircraft/premium/ec135/specular.jpg",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-ec135.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
@@ -161,7 +170,17 @@
     },
     "10": {
       "name": "Airbus a380-800",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "A380 - Emirates Courier",
+          "texture": [
+            "/models/aircraft/premium/a380/normal.jpg",
+            "/models/aircraft/premium/a380/specular.jpg",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A380.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Normal map",
         "Specular shader",
@@ -604,6 +623,13 @@
             "https://i.ibb.co.com/nqL0kGsz/KC-10-UAEAF.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "KC-10 extender",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-KC-10.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
@@ -792,6 +818,14 @@
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
           ],
           "credits": "borecpepik"
+        },
+        {
+          "name": "UAE Golden Raptor",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F22-golden_raptor.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/simple.png"
+          ],
+          "credits": "Raptor4001"
         }
       ],
       "labels": [
@@ -851,7 +885,17 @@
     },
     "2953": {
       "name": "NASA Space Shuttle",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAE Space Shuttle",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAE-SpaceShuttle.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/space_shuttle/extras/EFT.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/space_shuttle/extras/SRB.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Main texture",
         "EFT",
@@ -1024,6 +1068,13 @@
             "https://i.ibb.co.com/Lz1Bc43B/MIRAGE-2000-UAEAF.png"
           ],
           "credits": "BorecPepik 😘"
+        },
+        {
+          "name": "Mirage-2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MIRAGE-2000.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
@@ -1232,7 +1283,15 @@
     },
     "5314": {
       "name": "Boeing b747-100 SCA",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "Shuttle Carrier",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-747-Shuttle-Carrier.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Texture"
       ]
@@ -1302,6 +1361,20 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/YF-23-borec-personal.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF YF-23 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-YF-23-2.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF YF-23 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-YF-23-3.png"
+          ],
+          "credits": "Boeing7378max"
         }
       ],
       "labels": [
