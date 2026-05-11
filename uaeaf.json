@@ -888,6 +888,15 @@
           ],
           "credits": "BorecPepik"
         }
+        {
+          "name": "UAE Space Shuttle",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Space%20shuttle%20al%20thuraya-1.png"
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/space_shuttle/extras/EFT.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/space_shuttle/extras/SRB.png"
+          ],
+          "credits": "BorecPepik"
+        }
       ],
       "labels": [
         "Main texture",
@@ -1055,13 +1064,6 @@
     "3617": {
       "name": "Dessault Mirage 2000-5",
       "liveries": [
-        {
-          "name": "UAEAF Dassault Mirage",
-          "texture": [
-            "https://i.ibb.co.com/Lz1Bc43B/MIRAGE-2000-UAEAF.png"
-          ],
-          "credits": "BorecPepik 😘"
-        },
         {
           "name": "Mirage-2",
           "texture": [
@@ -1399,7 +1401,7 @@
       ],
       "liveries": [
           {
-              "name": "UAE A10-C",
+              "name": "desert hog",
               "texture": [
                   "                https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A10.png"
               ],
