@@ -1056,6 +1056,20 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-15-boeing.png"
           ],
           "credits": "boeing7378max"
+         },
+         {
+          "name": "desert eagle",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-BIRDDDDDDD.png"
+          ],
+          "credits": "BorecPepik"
+         },
+         {
+          "name": "nighttime eagle",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-BIRDDDDDDD-black.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
