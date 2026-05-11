@@ -344,14 +344,14 @@
       "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
       "liveries": [
         {
-          "name": "UAEAF F/A-18F",
+          "name": "sea hornet",
           "texture": [
             "https://i.ibb.co/My8bQSXs/UAEAF-FA18.png"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "sea hornet",
+          "name": "hornet",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-FA-18.jpg"
           ],
