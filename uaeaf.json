@@ -356,6 +356,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-FA-18.jpg"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "desert hornet",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/FA-18-UAEAF.jpg"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
