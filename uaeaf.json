@@ -123,7 +123,7 @@
           "credits": "BorecPepik"
         },
         {
-          "name": " Nasr 7",
+          "name": "Nasr 7",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-7.jpg"
           ],
@@ -194,7 +194,7 @@
       "name": "Pilatus PC-7 Mk-I",
       "liveries": [
         {
-          "name": "PC-7 UAE Trainging aircraft",
+          "name": "PC-7 UAE Training aircraft",
           "texture": [
             "/models/aircraft/premium/pilatus/normal.jpg",
             "/models/aircraft/premium/pilatus/specular.jpg",
@@ -888,7 +888,7 @@
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/space_shuttle/extras/SRB.png"
           ],
           "credits": "BorecPepik"
-        }
+        },
         {
           "name": "Space Shuttle Thuraya-1",
           "texture": [
