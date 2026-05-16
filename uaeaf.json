@@ -1064,6 +1064,13 @@
           ],
           "credits": "boeing7378max"
          },
+        {
+          "name": "F-15 Classic Livery",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF.classic.png"
+          ],
+          "credits": "BorecPepik"
+         },
          {
           "name": "desert eagle",
           "texture": [
