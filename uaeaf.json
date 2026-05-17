@@ -319,16 +319,7 @@
     },
     "24": {
       "name": "Airbus a350-900",
-      "liveries": [
-        {
-          "name": "UAE Government",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_A350.png",
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_A350.png"
-          ],
-          "credits": "737max8"
-        }
-      ],
+      "liveries": [],
       "labels": [
         "Specular shader",
         "Texture"
@@ -688,9 +679,9 @@
             {
               "name": "Fuse Main",
               "baseColorFactor": [
-                0.7,
-                0.7,
-                0.7
+                0.2,
+                0.2,
+                0.2
               ]
             },
             {
@@ -937,7 +928,15 @@
     },
     "2973": {
       "name": "Airbus a350-1000",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAE Government",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_A350.png"
+          ],
+          "credits": "737max8"
+        }
+      ]
       "labels": [
         "Texture"
       ]
