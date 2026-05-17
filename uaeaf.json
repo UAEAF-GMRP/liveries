@@ -631,6 +631,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-KC-10.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAE MD-11 Tanker",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_MD11_TANKER.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
