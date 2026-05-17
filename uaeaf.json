@@ -473,7 +473,7 @@
       ],
       "liveries": [
         {
-          "name": "UAEAF T-38",
+          "name": "UAEAF T-38 Trainer",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-T-38.jpg"
           ],
@@ -637,7 +637,7 @@
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_MD11_TANKER.png"
           ],
-          "credits": "BorecPepik"
+          "credits": "737max8"
         }
       ],
       "labels": [
@@ -687,9 +687,9 @@
             {
               "name": "Fuse Black",
               "baseColorFactor": [
-                0.07451,
-                0.07451,
-                0.07451
+                0,
+                0,
+                0
               ]
             }
           ],
@@ -749,6 +749,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-UH-60-2.png"
           ],
           "credits": "Assassin 🍑"
+        },
+        {
+          "name": "UAEAF UH-60 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/hawkscaled.png"
+          ],
+          "credits": "737max8"
         }
       ],
       "labels": [
