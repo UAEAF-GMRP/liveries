@@ -1065,21 +1065,21 @@
           "credits": "boeing7378max"
          },
         {
-          "name": "F-15 Classic Livery",
+          "name": "F-15 Classic Gray",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF.classic.png"
           ],
           "credits": "BorecPepik"
          },
          {
-          "name": "desert eagle",
+          "name": "Desert Eagle",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-BIRDDDDDDD.png"
           ],
           "credits": "BorecPepik"
          },
          {
-          "name": "nighttime eagle",
+          "name": "Nighttime Eagle",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-BIRDDDDDDD-black.png"
           ],
@@ -1423,7 +1423,7 @@
       ],
       "liveries": [
           {
-              "name": "desert hog",
+              "name": "Desert Hog",
               "texture": [
                   "                https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A10.png"
               ],
