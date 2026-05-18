@@ -227,7 +227,7 @@
       ]
     },
     "15": {
-      "name": "Lokheed P38 Lightning",
+      "name": "Lockheed P38 Lightning",
       "liveries": [],
       "labels": [
         "Specular shader",
@@ -327,7 +327,7 @@
     },
     "25": {
       "name": "Boeing b777-300ER",
-      "liveries": [[
+      "liveries": [
         {
           "name": "UAE Government",
           "texture": [
