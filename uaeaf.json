@@ -327,7 +327,16 @@
     },
     "25": {
       "name": "Boeing b777-300ER",
-      "liveries": [],
+      "liveries": [[
+        {
+          "name": "UAE Government",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A6-SIL_777-300ER_UAE-PR.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A6-SIL_777-300ER_UAE-PR.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Specular shader",
         "Texture"
@@ -351,7 +360,7 @@
           "credits": "BorecPepik"
         },
         {
-          "name": "hornet",
+          "name": "F/A-18",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-FA-18.jpg"
           ],
