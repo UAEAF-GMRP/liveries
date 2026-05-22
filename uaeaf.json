@@ -618,6 +618,22 @@
           ],
           "credits": "BorecPepik"
         }
+        {
+          "name": "UAE Cargo 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/il76-UAEAF%20.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
+          ],
+          "credits": "BorecPepik"
+        }
+        {
+          "name": "UAE Cargo 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/il76-wth.jpg",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
+          ],
+          "credits": "BorecPepik"
+        }
       ],
       "labels": [
         "Fuselage texture",
