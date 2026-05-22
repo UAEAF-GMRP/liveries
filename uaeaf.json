@@ -632,7 +632,15 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/il76-wth.jpg",
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
           ],
-          "credits": "BorecPepik"
+          "credits": "BorecPepik and Gamer"
+        },
+        {
+          "name": "UAE VIP transport",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_IL76_A6-BEA.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_IL76_A6-BEA-wings.png"
+          ],
+          "credits": "737max8"
         }
       ],
       "labels": [
