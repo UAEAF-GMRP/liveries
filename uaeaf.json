@@ -259,6 +259,13 @@
             "https://i.ibb.co/xt4SHmp3/UAEAF-Su-35.jpg"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "desert flanker",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
