@@ -74,9 +74,9 @@
       "name": "General Dynamics F16 Fighting Falcon",
       "liveries": [
         {
-          "name": "Deert Falcon",
+          "name": "Desert Falcon",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-16.jpg"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/F-16-UAEAF.jpg"
           ]
         },
         {
