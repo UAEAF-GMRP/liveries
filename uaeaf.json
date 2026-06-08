@@ -1230,7 +1230,15 @@
     },
     "4764": {
       "name": "Boeing b767-400ER",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "AEW&C",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/E-767-UAEAF-AWACS.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Texture"
       ]
