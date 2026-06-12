@@ -14,7 +14,7 @@
       "name": "Cessna 172 Skyhawk",
       "liveries": [
         {
-          "name": "UAEAF C-172",
+          "name": "C172?",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-c172.png"
           ],
@@ -29,7 +29,7 @@
       "name": "Alphajet PAF",
       "liveries": [
         {
-          "name": "UAEAF Alphajet PAF",
+          "name": "UAE Light Attack Aircraft",
           "texture": [
             "https://i.ibb.co/fG1RcWhP/UAEAF-Alpha-F.png",
             "https://i.ibb.co/hRDvhyk9/UAEAF-Alpha-W.png"
@@ -74,59 +74,59 @@
       "name": "General Dynamics F16 Fighting Falcon",
       "liveries": [
         {
-          "name": "UAEAF Al Nasr 1",
+          "name": "Desert Falcon",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/F-16-UAEAF.jpg"
+          ]
+        },
+        {
+          "name": "Nasr 1",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-1.jpg"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "UAEAF Al Nasr 2",
+          "name": "Nasr 2",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-2.jpg"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "UAEAF Al Nasr 3",
+          "name": "Nasr 3",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-3.jpg"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "UAEAF Al Nasr 4",
+          "name": "Nasr 4",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-4.jpg"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "UAEAF Al Nasr 5",
+          "name": "Nasr 5",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-5.jpg"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "UAEAF Al Nasr 6",
+          "name": "Nasr 6",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-6.jpg"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "UAEAF Al Nasr 7",
+          "name": "Nasr 7",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-7.jpg"
           ],
           "credits": "BorecPepik"
-        },
-        {
-          "name": "UAEAF F-16",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-16.jpg"
-          ]
         }
       ],
       "labels": [
@@ -146,7 +146,7 @@
       "name": "Eurocopter EC135",
       "liveries": [
         {
-          "name": "UAE EC135",
+          "name": "UAE GOV",
           "texture": [
             "/models/aircraft/premium/ec135/normals.jpg",
             "/models/aircraft/premium/ec135/specular.jpg",
@@ -171,7 +171,7 @@
             "/models/aircraft/premium/a380/specular.jpg",
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A380.png"
           ],
-          "credits": "BorecPepik"
+          "credits": "GeoYT"
         }
       ],
       "labels": [
@@ -193,7 +193,7 @@
       "name": "Pilatus PC-7 Mk-I",
       "liveries": [
         {
-          "name": "UAEAF PC-7 Mk-1",
+          "name": "PC-7 trainer aircraft",
           "texture": [
             "/models/aircraft/premium/pilatus/normal.jpg",
             "/models/aircraft/premium/pilatus/specular.jpg",
@@ -242,6 +242,21 @@
         "Texture"
       ]
     },
+     "17": {
+      "name": "McDonell Douglas DC-10-40",
+      "liveries": [
+        {
+          "name": "Emirati Firefighting team",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/DC-10-Fire-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
     "18": {
       "name": "Sukhoi Su-35 Flanker",
       "liveries": [
@@ -256,6 +271,13 @@
           "name": "Su-35 - 2",
           "texture": [
             "https://i.ibb.co/xt4SHmp3/UAEAF-Su-35.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Desert Flanker",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF.png"
           ],
           "credits": "BorecPepik"
         }
@@ -278,13 +300,6 @@
           "name": "Concorde x B1 lancer (without roundel)",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-concorde-2-without-roundel.png"
-          ],
-          "credits": "borecpepik"
-        },
-        {
-          "name": "Concorde x B1 lancer (with roundel)",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-concorde-2-with-roundel.png"
           ],
           "credits": "borecpepik"
         }
@@ -350,9 +365,9 @@
           "credits": "BorecPepik"
         },
         {
-          "name": "UAEAF F/A-18 2",
+          "name": "Desert Hornet",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-FA-18.jpg"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/FA-18-UAEAF.png"
           ],
           "credits": "BorecPepik"
         }
@@ -383,7 +398,7 @@
           "credits": "Raptor4001"
         },
         {
-          "name": "UAE Rafale Realistic",
+          "name": "Rafale Realistic",
           "texture": [
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
             "https://i.ibb.co/rnVNZ4t/Rafale-UAEAF-2.png",
@@ -393,7 +408,7 @@
           "credits": "BorecPepik"
         },
         {
-          "name": "UAE Rafale 3",
+          "name": "Rafale 3",
           "texture": [
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
             "https://i.ibb.co/qLnJWM3F/Rafale-UAEAF-1.png",
@@ -403,7 +418,7 @@
           "credits": "BorecPepik"
         },
         {
-          "name": "UAEAF Rafale-4",
+          "name": "Rafale-4",
           "texture": [
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
             "https://i.ibb.co/BHdm95R6/Rafale-UAEAF-4.png",
@@ -413,7 +428,7 @@
           "credits": "BorecPepik"
         },
         {
-          "name": "UAEAF Rafale 5",
+          "name": "Rafale 5",
           "texture": [
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
             "https://i.ibb.co/HD2SGgHw/UAEAF-rafale-5.jpg",
@@ -423,7 +438,7 @@
           "credits": "valery3737"
         },
         {
-          "name": "UAEAF Al-Nasr Rafale",
+          "name": "Al-Nasr Rafale",
           "texture": [
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/UAEAF-Nasr-Al-Emarat-rafale.png",
@@ -465,14 +480,14 @@
       ],
       "liveries": [
         {
-          "name": "UAEAF T-38",
+          "name": "UAE Training",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-T-38.jpg"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "UAEAF T-38-2",
+          "name": "Desert Tiger",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-T-38-2.png"
           ],
@@ -517,7 +532,7 @@
       "name": "Citroen 2CV",
       "liveries": [
         {
-          "name": "UAEAF 2CV",
+          "name": "Panzerkampfwagen IV",
           "texture": [
             "/models/aircraft/premium/2cv/normals.jpg",
             "/models/aircraft/premium/2cv/specular.jpg",
@@ -591,15 +606,39 @@
       ]
     },
     "1014": {
-      "name": "Ilyushin IL-76TD",
+      "name": "IL-76TD",
       "liveries": [
         {
-          "name": "UAE IL-76TD",
+          "name": "Cargo (with camo)",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-1.png",
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAE GOV",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_IL76_A6-BEA.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_IL76_A6-BEA-wings.png"
+          ],
+          "credits": "737max8"
+        },
+        {
+          "name": "UAE Ministry Of Defence",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/il76-UAEAF.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF smthn",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/il76-wth.jpg",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
+          ],
+          "credits": "BorecPepik and Gamer"
         }
       ],
       "labels": [
@@ -621,6 +660,13 @@
           "name": "KC-10 extender",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-KC-10.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAE tanker",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_MD11_TANKER.png"
           ],
           "credits": "BorecPepik"
         }
@@ -650,11 +696,11 @@
       "mp": "disabled",
       "liveries": [
         {
-          "name": "UAEAF f-15 Arnold Schwarzenegger",
+          "name": "UAEAF f-14",
           "texture": [
             "https://i.ibb.co/tMhD6dVM/UAEAF-F-14-2.png",
             {
-              "material": 0
+              "material": 1
             },
             {
               "material": 1
@@ -664,17 +710,17 @@
             {
               "name": "Fuse Main",
               "baseColorFactor": [
-                0.458822,
-                0.466658,
-                0.486265
+                0.2,
+                0.2,
+                0.2
               ]
             },
             {
               "name": "Fuse Black",
               "baseColorFactor": [
-                0.07451,
-                0.07451,
-                0.07451
+                0,
+                0,
+                0
               ]
             }
           ],
@@ -722,7 +768,7 @@
       "name": "Sikorsky UH-60 Black Hawk",
       "liveries": [
         {
-          "name": "UAEAF UH-60 1",
+          "name": "UH-60 Realistic",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-UH-60.png"
           ],
@@ -734,6 +780,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-UH-60-2.png"
           ],
           "credits": "Assassin 🍑"
+        },
+        {
+          "name": "UAE UH60 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/hawkscaled.png"
+          ],
+          "credits": "737max8"
         }
       ],
       "labels": [
@@ -830,7 +883,7 @@
       "name": "Leonardo - AugustaWestland AW609",
       "liveries": [
         {
-          "name": "UAEAF AW609",
+          "name": "UAE SaR",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-aw609.jpg"
           ],
@@ -880,9 +933,18 @@
       "name": "NASA Space Shuttle",
       "liveries": [
         {
-          "name": "UAE Space Shuttle",
+          "name": "Space Shuttle Emarat",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAE-SpaceShuttle.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/space_shuttle/extras/EFT.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/space_shuttle/extras/SRB.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Thuraya-1",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Space%20shuttle%20al%20thuraya-1.png",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/space_shuttle/extras/EFT.png",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/space_shuttle/extras/SRB.png"
           ],
@@ -953,7 +1015,7 @@
       ]
     },
     "3292": {
-      "name": "Boeing p8I Neptune",
+      "name": "Boeing I Neptune",
       "liveries": [
         {
           "name": "UAEAF P8I",
@@ -1046,6 +1108,27 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-15-boeing.png"
           ],
           "credits": "boeing7378max"
+        },
+        {
+          "name": "Desert eagle",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-BIRDDDDDDD.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Night Eagle",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-BIRDDDDDDD-black.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Classic Gray",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF.classic.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
@@ -1056,14 +1139,7 @@
       "name": "Dessault Mirage 2000-5",
       "liveries": [
         {
-          "name": "UAEAF Dassault Mirage",
-          "texture": [
-            "https://i.ibb.co.com/Lz1Bc43B/MIRAGE-2000-UAEAF.png"
-          ],
-          "credits": "BorecPepik 😘"
-        },
-        {
-          "name": "Mirage-2",
+          "name": "Mirage",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MIRAGE-2000.png"
           ],
@@ -1128,7 +1204,7 @@
           "credits": "Boeing737-8Max"
         },
         {
-          "name": "UAE a330 2026",
+          "name": "UAE GOV",
           "texture": [
             "https://i.ibb.co/jvC9bFJh/UAE-a330.jpg"
           ],
@@ -1169,7 +1245,15 @@
     },
     "4764": {
       "name": "Boeing b767-400ER",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "AEW&C",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/E-767-UAEAF-AWACS.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Texture"
       ]
@@ -1218,7 +1302,7 @@
       "name": "Boeing b747-8I",
       "liveries": [
         {
-          "name": "UAE 747 8I",
+          "name": "Al Emarat",
           "texture": [
             "https://i.ibb.co/bgbvwsdX/UAE-747-8-I.jpg",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -1256,14 +1340,14 @@
           "credits": "Arnold"
         },
         {
-          "name": "UAEAF F-35 Digital",
+          "name": "F-35 Digital Camo",
           "texture": [
             "https://i.ibb.co/kY2DmpQ/UAE-F-35-digital-camo.png"
           ],
           "credits": "valery3737"
         },
         {
-          "name": "UAEAF Al Nasr F-35",
+          "name": "Al Nasr F-35",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/UAEAF-f-35-alnasr.jpg"
           ],
@@ -1399,7 +1483,7 @@
       ],
       "liveries": [
           {
-              "name": "UAE A10-C",
+              "name": "A10 Desert Hog",
               "texture": [
                   "                https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A10.png"
               ],
