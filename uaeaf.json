@@ -695,9 +695,9 @@
             {
               "name": "Fuse Main",
               "baseColorFactor": [
-                0.2,
-                0.2,
-                0.2
+                0,
+                0,
+                0
               ]
             },
             {
