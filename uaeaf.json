@@ -654,7 +654,7 @@
       ]
     },
     "1023": {
-      "name": "McDonnell Douglas MD11",
+      "name": "McDonnell Douglas MD-11",
       "liveries": [
         {
           "name": "KC-10 extender",
@@ -668,7 +668,7 @@
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_MD11_TANKER.png"
           ],
-          "credits": "BorecPepik"
+          "credits": "737max8"
         }
       ],
       "labels": [
