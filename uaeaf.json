@@ -242,7 +242,7 @@
         "Texture"
       ]
     },
-     "17": {
+    "17": {
       "name": "McDonell Douglas DC-10-40",
       "liveries": [
         {
@@ -683,56 +683,32 @@
       ]
     },
     "2581": {
-      "index": [
-        1,
-        1,
-        1
+  "index": [1, 1, 1],
+  "parts": [0, 0, 0],
+  "mp": "disabled",
+  "liveries": [
+    {
+      "name": "UAEAF f-14",
+      "texture": [
+        "https://i.ibb.co/tMhD6dVM/UAEAF-F-14-2.png"
       ],
-      "parts": [
-        0,
-        0,
-        0
-      ],
-      "mp": "disabled",
-      "liveries": [
+      "materials": [
         {
-          "name": "UAEAF f-14",
-          "texture": [
-            "https://i.ibb.co/tMhD6dVM/UAEAF-F-14-2.png",
-            {
-              "material": 1
-            },
-            {
-              "material": 1
-            }
-          ],
-          "materials": [
-            {
-              "name": "Fuse Main",
-              "baseColorFactor": [
-                0.2,
-                0.2,
-                0.2
-              ]
-            },
-            {
-              "name": "Fuse Black",
-              "baseColorFactor": [
-                0,
-                0,
-                0
-              ]
-            }
-          ],
-          "credits": "arnoldthewolf"
+          "name": "Fuse Main",
+          "baseColorFactor": [0.2, 0.2, 0.2]
+        },
+        {
+          "name": "Fuse Black",
+          "baseColorFactor": [0, 0, 0]
         }
       ],
-      "labels": [
-        "Texture"
-      ],
-      "logo": true,
-      "name": ""
-    },
+      "credits": "arnoldthewolf"
+    }
+  ],
+  "labels": ["Texture"],
+  "logo": true,
+  "name": "Grumman F-14 Tomcat"
+},
     "2706": {
       "name": "Bombardier CRJ200",
       "liveries": [],
