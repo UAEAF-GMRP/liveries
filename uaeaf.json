@@ -654,7 +654,7 @@
       ]
     },
     "1023": {
-      "name": "McDonnell Douglas MD-11",
+      "name": "McDonnell Douglas MD11",
       "liveries": [
         {
           "name": "KC-10 extender",
@@ -684,7 +684,7 @@
     },
     "2581": {
       "index": [
-        1,
+        0,
         0,
         0
       ],
