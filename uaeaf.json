@@ -251,6 +251,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/DC-10-Fire-UAEAF.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Red Croissant",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/RedcresentUAE.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
