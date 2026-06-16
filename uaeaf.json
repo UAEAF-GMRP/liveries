@@ -1150,6 +1150,20 @@
         "Texture"
       ]
     },
+    "2003": {
+      "name": "boeing 720",
+      "liveries": [
+        {
+          "name": "Vomit Comet",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/b720-vomit-comet.png"
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
     "4017": {
       "name": "Embraer ERJ 145LR",
       "liveries": [],
