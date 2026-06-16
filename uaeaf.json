@@ -725,7 +725,30 @@
     },
     "2769": {
       "name": "Boeing b737-MAX8",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "In Memory of 737",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/In-memory-of-737max8.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+        "2003": {
+      "name": "boeing 720",
+      "liveries": [
+        {
+          "name": "Vomit Comet",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/b720-vomit-comet.png"
+            ],
+            "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Texture"
       ]
