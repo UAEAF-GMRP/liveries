@@ -242,7 +242,7 @@
         "Texture"
       ]
     },
-     "17": {
+    "17": {
       "name": "McDonell Douglas DC-10-40",
       "liveries": [
         {
@@ -251,6 +251,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/DC-10-Fire-UAEAF.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Red Croissant",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/RedcresentUAE.png"
+          ],
+          "credits": "boing737max8"
         }
       ],
       "labels": [
@@ -683,56 +690,32 @@
       ]
     },
     "2581": {
-      "index": [
-        0,
-        0,
-        0
+  "index": [1, 1, 1],
+  "parts": [0, 0, 0],
+  "mp": "disabled",
+  "liveries": [
+    {
+      "name": "UAEAF f-14",
+      "texture": [
+        "https://i.ibb.co/tMhD6dVM/UAEAF-F-14-2.png"
       ],
-      "parts": [
-        0,
-        0,
-        0
-      ],
-      "mp": "disabled",
-      "liveries": [
+      "materials": [
         {
-          "name": "UAEAF f-14",
-          "texture": [
-            "https://i.ibb.co/tMhD6dVM/UAEAF-F-14-2.png",
-            {
-              "material": 1
-            },
-            {
-              "material": 1
-            }
-          ],
-          "materials": [
-            {
-              "name": "Fuse Main",
-              "baseColorFactor": [
-                0.2,
-                0.2,
-                0.2
-              ]
-            },
-            {
-              "name": "Fuse Black",
-              "baseColorFactor": [
-                0,
-                0,
-                0
-              ]
-            }
-          ],
-          "credits": "arnoldthewolf"
+          "name": "Fuse Main",
+          "baseColorFactor": [0.2, 0.2, 0.2]
+        },
+        {
+          "name": "Fuse Black",
+          "baseColorFactor": [0, 0, 0]
         }
       ],
-      "labels": [
-        "Texture"
-      ],
-      "logo": true,
-      "name": ""
-    },
+      "credits": "arnoldthewolf"
+    }
+  ],
+  "labels": ["Texture"],
+  "logo": true,
+  "name": "Grumman F-14 Tomcat"
+},
     "2706": {
       "name": "Bombardier CRJ200",
       "liveries": [],
@@ -742,7 +725,30 @@
     },
     "2769": {
       "name": "Boeing b737-MAX8",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "In Memory of 737",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/In-memory-of-737max8.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+        "2003": {
+      "name": "boeing 720",
+      "liveries": [
+        {
+          "name": "Vomit Comet",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/b720-vomit-comet.png"
+            ],
+            "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Texture"
       ]
@@ -1150,20 +1156,6 @@
         "Texture"
       ]
     },
-    "3640": {
-      "name": "boeing 720",
-      "liveries": [
-        {
-          "name": "Vomit Comet",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/b720-vomit-comet.png"
-          "credits": "BorecPepik"
-        }
-      ],
-      "labels": [
-        "Texture"
-      ]
-    },
     "4017": {
       "name": "Embraer ERJ 145LR",
       "liveries": [],
@@ -1445,13 +1437,6 @@
             "https://i.ibb.co/hGtY9x1/UAEAF-YF-23-grey.png"
           ],
           "credits": "thesupremeguy"
-        },
-        {
-          "name": "BorecPepik's personal YF-23",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/YF-23-borec-personal.png"
-          ],
-          "credits": "BorecPepik"
         },
         {
           "name": "UAEAF YF-23 2",
