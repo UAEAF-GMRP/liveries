@@ -646,14 +646,6 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
           ],
           "credits": "BorecPepik and Gamer"
-        },
-          {
-          "name": "UAEAF smthn",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/il76-UAEAF2.png",
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
-          ],
-          "credits": "BorecPepik and Gamer"
         }
       ],
       "labels": [
@@ -718,26 +710,9 @@
         }
       ],
       "credits": "arnoldthewolf"
-    },
-    {
-      "name": "UAEAF f-14",
-      "texture": [
-        "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-14-UAEAF.png"
-      ],
-      "materials": [
-        {
-          "name": "Fuse Main",
-          "baseColorFactor": [0.2, 0.2, 0.2]
-        },
-        {
-          "name": "Fuse Black",
-          "baseColorFactor": [0, 0, 0]
-        }
-      ],
-      "credits": "BorecPepik"
     }
   ],
-  "labels": "[Texture]",
+  "labels": ["Texture"],
   "logo": true,
   "name": "Grumman F-14 Tomcat"
 },
