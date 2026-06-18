@@ -710,6 +710,23 @@
         }
       ],
       "credits": "arnoldthewolf"
+    },
+    {
+      "name": "UAEAF f-14 2",
+      "texture": [
+        "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-14-UAEAF.png.png"
+      ],
+      "materials": [
+        {
+          "name": "Fuse Main",
+          "baseColorFactor": [0.2, 0.2, 0.2]
+        },
+        {
+          "name": "Fuse Black",
+          "baseColorFactor": [0, 0, 0]
+        }
+      ],
+      "credits": "arnoldthewolf"
     }
   ],
   "labels": ["Texture"],
