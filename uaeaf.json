@@ -710,12 +710,7 @@
         }
       ],
       "credits": "arnoldthewolf"
-    }
-  ],
-  "labels": ["Texture"],
-  "logo": true,
-  "name": "Grumman F-14 Tomcat"
-},
+    },
     {
       "name": "UAEAF f-14",
       "texture": [
@@ -731,7 +726,7 @@
           "baseColorFactor": [0, 0, 0]
         }
       ],
-      "credits": "arnoldthewolf"
+      "credits": "BorecPepik"
     }
   ],
   "labels": ["Texture"],
