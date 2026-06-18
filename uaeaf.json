@@ -729,7 +729,7 @@
       "credits": "BorecPepik"
     }
   ],
-  "labels": ["Texture"],
+  "labels": "Texture",
   "logo": true,
   "name": "Grumman F-14 Tomcat"
 },
