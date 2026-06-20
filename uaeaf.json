@@ -289,6 +289,34 @@
           "credits": "BorecPepik"
         },
         {
+          "name": "General Tarun",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Tarun.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "General Infinity",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Infinity.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "General Chicken",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-CHICKEN.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "CW1",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-CW1.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
           "name": "23rd Caliph",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Caliph.png"
@@ -306,6 +334,13 @@
           "name": "56th Fursan",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Fursan.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "CW2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-CW2.png"
           ],
           "credits": "BorecPepik"
         },
