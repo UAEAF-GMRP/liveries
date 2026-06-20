@@ -287,6 +287,48 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "23rd Caliph",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Caliph.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "27th Yalla",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Yalla.png"
+          ],
+          "credits": "BorecPepik"
+        },
+          {
+          "name": "56th Fursan",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Fursan.png"
+          ],
+          "credits": "BorecPepik"
+        },
+         {
+          "name": "157th Shaheen",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-shaheen.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "162nd Kareem",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Kareem.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "174th Rashed",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Rashed.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
