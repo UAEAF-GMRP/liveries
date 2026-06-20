@@ -364,6 +364,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Rashed.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Borec bcuz why not",
+          "texture": [
+            "github.com/UAEAF-GMRP/liveries/blob/testing/uaeaf-liveries/Su-35-UAEAF-BOREC.png?raw=true"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
