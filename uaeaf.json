@@ -368,7 +368,7 @@
         {
           "name": "Borec bcuz why not",
           "texture": [
-            "github.com/UAEAF-GMRP/liveries/blob/testing/uaeaf-liveries/Su-35-UAEAF-BOREC.png?raw=true"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-BOREC.png"
           ],
           "credits": "BorecPepik"
         }
