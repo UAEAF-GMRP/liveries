@@ -1238,6 +1238,13 @@
           ],
           "credits": "BorecPepik"
         },
+         {
+          "name": "Desert Camo",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15I-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        },
         {
           "name": "General BIIIIIIRB",
           "texture": [
