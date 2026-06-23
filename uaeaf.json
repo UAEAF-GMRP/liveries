@@ -646,6 +646,14 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
           ],
           "credits": "BorecPepik and Gamer"
+        },
+        {
+          "name": "UAEAF no name?",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/il76-UAEAF2.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
+          ],
+          "credits": "BorecPepik the most legendary of all mrpers"
         }
       ],
       "labels": [
@@ -710,6 +718,23 @@
         }
       ],
       "credits": "arnoldthewolf"
+    },
+    {
+      "name": "UAEAF f-14 2",
+      "texture": [
+        "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-14-UAEAF.png"
+      ],
+      "materials": [
+        {
+          "name": "Fuse Main",
+          "baseColorFactor": [0.2, 0.2, 0.2]
+        },
+        {
+          "name": "Fuse Black",
+          "baseColorFactor": [0, 0, 0]
+        }
+      ],
+      "credits": "borec"
     }
   ],
   "labels": ["Texture"],
@@ -1135,6 +1160,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF.classic.png"
           ],
           "credits": "BorecPepik"
+        },
+         {
+          "name": "Desert Camo",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15I-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
@@ -1484,7 +1516,14 @@
           {
               "name": "A10 Desert Hog",
               "texture": [
-                  "                https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A10.png"
+                  "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A10.png"
+              ],
+              "credits": "BorecPepik"
+          },
+        {
+              "name": "A10 Default",
+              "texture": [
+                  "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A-10C-default-UAEAF.png"
               ],
               "credits": "BorecPepik"
           }
