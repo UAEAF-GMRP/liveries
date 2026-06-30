@@ -835,6 +835,13 @@
           ],
           "credits": "BorecPepik"
         }
+        {
+          "name": "737 Doomsday plane",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/737.png"
+          ],
+          "credits": "BarunTeast"
+        }
       ],
       "labels": [
         "Texture"
