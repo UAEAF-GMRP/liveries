@@ -1074,7 +1074,15 @@
     },
     "2973": {
       "name": "Airbus a350-1000",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAE gov",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_A350.png"
+          ],
+          "credits": "boing"
+        }
+      ],
       "labels": [
         "Texture"
       ]
