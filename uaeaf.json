@@ -924,7 +924,15 @@
     },
     "2856": {
       "name": "Airbus a330-200",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "MRTT",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A330-MRTT-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Texture"
       ]
