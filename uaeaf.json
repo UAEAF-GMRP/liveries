@@ -725,7 +725,7 @@
           "credits": "BorecPepik and Gamer"
         },
         {
-          "name": "UAEAF no name?",
+          "name": "Wakb",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/il76-UAEAF2.png",
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
@@ -1388,7 +1388,16 @@
     },
     "4402": {
       "name": "Boeing b777-200F",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "Wakb",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/777F-UAEAF.png",
+            ""
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Metallic Roughness shader",
         "Texture"
