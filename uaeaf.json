@@ -425,7 +425,15 @@
     },
     "25": {
       "name": "Boeing b777-300ER",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAE gov",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A6-SIL_777-300ER_UAE-PR.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Specular shader",
         "Texture"
