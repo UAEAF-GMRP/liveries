@@ -80,6 +80,12 @@
           ]
         },
         {
+          "name": "Have Glass",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-16-UAEAF-2.png"
+          ]
+        },
+        {
           "name": "Nasr 1",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-1.jpg"
