@@ -891,7 +891,8 @@
         {
           "name": "Wakb",
           "texture": [
-            ""
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/an-124-UAEAF.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/an-124-engines-UAEAF.png"
           ],
           "credits": "BorecPepik"
         }
