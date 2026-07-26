@@ -887,7 +887,15 @@
     },
     "2788": {
       "name": "Antonov An-225 Mriya",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "Wakb",
+          "texture": [
+            ""
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Fuselage texture",
         "Engine texture"
