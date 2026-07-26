@@ -80,6 +80,12 @@
           ]
         },
         {
+          "name": "Have Glass",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-16-UAEAF-2.png"
+          ]
+        },
+        {
           "name": "Nasr 1",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-1.jpg"
@@ -425,7 +431,15 @@
     },
     "25": {
       "name": "Boeing b777-300ER",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAE gov",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A6-SIL_777-300ER_UAE-PR.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Specular shader",
         "Texture"
@@ -873,7 +887,16 @@
     },
     "2788": {
       "name": "Antonov An-225 Mriya",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "Wakb",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/an-124-UAEAF.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/an-124-engines-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Fuselage texture",
         "Engine texture"
@@ -1576,6 +1599,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/UAEAF-f-35-alnasr.jpg"
           ],
           "credits": "musab_fr [<3 murdered]"
+        },
+        {
+          "name": "Dust Devil",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-35-UAEAF-1.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
