@@ -989,6 +989,30 @@
           "credits": "BorecPepik"
         },
         {
+          "name": "UAE Stealth 04",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-22-4.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
+          ],
+          "credits": "borecpepik"
+        },
+        {
+          "name": "UAE Golden Raptor",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F22-golden_raptor.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/simple.png"
+          ],
+          "credits": "Raptor4001"
+        },
+        {
+          "name": "UAE Stealth 05",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-22-1-UAEAF.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-22-blank-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
           "name": "Raptor_Personal",
           "texture": [
             "https://i.ibb.co/G449hdhm/f-22lightning.png",
@@ -1004,22 +1028,6 @@
           ],
           "credits": "Raptor4001"
         },
-        {
-          "name": "UAEAF F-22 Raptor 4",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-22-4.png",
-            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
-          ],
-          "credits": "borecpepik"
-        },
-        {
-          "name": "UAE Golden Raptor",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F22-golden_raptor.png",
-            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/simple.png"
-          ],
-          "credits": "Raptor4001"
-        }
       ],
       "labels": [
         "Texture",
