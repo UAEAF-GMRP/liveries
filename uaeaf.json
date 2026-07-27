@@ -252,13 +252,13 @@
       "name": "McDonell Douglas DC-10-40",
       "liveries": [
         {
-          "name": "Emirati Firefighting team",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/DC-10-Fire-UAEAF.png"
-          ],
-          "alias": "2",
-          "credits": "BorecPepik"
-        },
+                    "name": "Emirati Firefighting team",
+                    "texture": [
+                        ""
+                    ],
+                    "alias": "2",
+                    "credits": "GeoFS"
+                },
         {
           "name": "Red Croissant",
           "texture": [
