@@ -35,6 +35,86 @@
             "https://i.ibb.co/hRDvhyk9/UAEAF-Alpha-W.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Nasr-1 Assassin",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-fuselage-1-assasin.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Nasr-2 Sonic",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-fuselage-2-sonic.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Nasr-3 Murdre",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-fuselage-3-murdre.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Nasr-4 Condor",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-fuselage-4-condor.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Nasr-5 Borec",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-fuselage-5-borec.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Nasr-6 Alex",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-fuselage-6-alex.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Nasr-7 Viper",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-fuselage-7-v202.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Nasr-8 Havoc",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-fuselage-8-havoc.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Nasr-9 Supreme",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-fuselage-9-supreme.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Nasr-0 Unlabeled",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-fuselage-0-unlabeled.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
@@ -252,11 +332,12 @@
       "name": "McDonell Douglas DC-10-40",
       "liveries": [
         {
-          "name": "Emirati Firefighting team",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/DC-10-Fire-UAEAF.png"
-          ],
-          "credits": "BorecPepik"
+        "name": "Emirati Firefighting team",
+        "texture": [
+          "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/DC-10-Fire-UAEAF.png"
+        ],
+         "alias": "2",
+        "credits": "BorecPepik"
         },
         {
           "name": "Red Croissant",
@@ -868,7 +949,7 @@
           "name": "Vomit Comet",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/b720-vomit-comet.png"
-            ],
+          ],
             "credits": "BorecPepik"
         }
       ],
@@ -988,6 +1069,30 @@
           "credits": "BorecPepik"
         },
         {
+          "name": "UAE Stealth 04",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-22-4.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
+          ],
+          "credits": "borecpepik"
+        },
+        {
+          "name": "UAE Golden Raptor",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F22-golden_raptor.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/simple.png"
+          ],
+          "credits": "Raptor4001"
+        },
+        {
+          "name": "UAE Stealth 05",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-22-1-UAEAF.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-22-blank-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
           "name": "Raptor_Personal",
           "texture": [
             "https://i.ibb.co/G449hdhm/f-22lightning.png",
@@ -1000,22 +1105,6 @@
           "texture": [
             "https://i.ibb.co/p6pd9Xv8/f-22-new.png",
             "https://i.ibb.co/xSfmnCmm/spritofamerica-shader.png"
-          ],
-          "credits": "Raptor4001"
-        },
-        {
-          "name": "UAEAF F-22 Raptor 4",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-22-4.png",
-            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
-          ],
-          "credits": "borecpepik"
-        },
-        {
-          "name": "UAE Golden Raptor",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F22-golden_raptor.png",
-            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/simple.png"
           ],
           "credits": "Raptor4001"
         }
