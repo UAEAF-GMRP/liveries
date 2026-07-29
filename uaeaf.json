@@ -107,6 +107,14 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Nasr-0 Unlabeled"
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-fuselage-0-unlabeled.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-alphajet-wings.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
