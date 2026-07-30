@@ -330,6 +330,11 @@
     },
     "17": {
       "name": "McDonell Douglas DC-10-40",
+      "index": [0,0],
+        "parts": [
+            "fuselage",
+            "wing"
+        ],
       "liveries": [
         {
         "name": "Emirati Firefighting team",
