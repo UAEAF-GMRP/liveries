@@ -1306,7 +1306,18 @@
     },
     "3460": {
       "name": "Grumman E-2 Hawkeye",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "AEW&C",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/E-2-DOME-UAEAF.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/E-2-FUSELAGE-UAEAF.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/E-2-TAIL-UAEAF.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/E-2-PROPELLER-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        },
+      ],
       "labels": [
         "Dome texture",
         "Fuselage texture",
@@ -1316,7 +1327,8 @@
     },
     "3534": {
       "name": "Airbus a320-214",
-      "liveries": [],
+      "liveries": [ 
+      ],
       "labels": [
         "Texture"
       ]
