@@ -549,6 +549,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/FA-18-UAEAF.png"
           ],
           "credits": "BorecPepik"
+        },
+                {
+          "name": "Al Nasr",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/al-nasr-fa18.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
