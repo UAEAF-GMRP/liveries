@@ -556,6 +556,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/nasr-fa18.png"
           ],
           "credits": "BorecPepik"
+        },
+                {
+          "name": "stealthy",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/FA-18-UAEAF-3.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
