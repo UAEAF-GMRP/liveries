@@ -864,22 +864,7 @@
     },
     "2420": {
       "name": "ATR 72-600",
-      "liveries": [
-        {
-          "name": "ATR 1",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/ATR72-UAEAF.png"
-          ],
-          "credits": "BorecPepik"
-        },
-        {
-          "name": "ATR 2",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/ATR-72-UAEAF.png"
-          ],
-          "credits": "William"
-        }
-      ],
+      "liveries": [],
       "labels": [
         "Texture"
       ]
