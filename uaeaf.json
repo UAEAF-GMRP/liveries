@@ -892,6 +892,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/ATR-72-UAEAF.png"
           ],
           "credits": "William"
+        },
+                {
+          "name": "ATR 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/ATR-72-UAEAF-67.png"
+          ],
+          "credits": "William"
         }
       ],
       "labels": [
