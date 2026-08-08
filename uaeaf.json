@@ -361,6 +361,13 @@
           ],
           "credits": "Nadech"
         },
+         {
+          "name": "Super Flanker",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-1.png"
+          ],
+          "credits": "BorecPepik"
+        },
         {
           "name": "Su-35 - 2",
           "texture": [
