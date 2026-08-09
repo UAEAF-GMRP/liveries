@@ -1,5 +1,5 @@
 {
-  "name": "🇦🇪 United Arab Emirates GeoFS 🇦🇪",
+  "name": "🇦🇪 United Arab Emirates Testing 🇦🇪",
   "color": "red",
   "bgcolor": "#f0d795",
   "aircrafts": {
@@ -361,6 +361,13 @@
           ],
           "credits": "Nadech"
         },
+         {
+          "name": "Super Flanker",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-splinter-camo.png"
+          ],
+          "credits": "BorecPepik"
+        },
         {
           "name": "Su-35 - 2",
           "texture": [
@@ -549,6 +556,20 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/FA-18-UAEAF.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Al Nasr",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/al-nasr/nasr-fa18.png"
+          ],
+          "credits": "BorecPepik"
+        },
+                {
+          "name": "stealthy",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/FA-18-UAEAF-3.png"
+          ],
+          "credits": "BorecPepik & Will"
         }
       ],
       "labels": [
@@ -862,9 +883,31 @@
         "Texture"
       ]
     },
-    "2420": {
+        "2420": {
       "name": "ATR 72-600",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "ATR 1",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/ATR72-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "ATR 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/ATR-72-UAEAF.png"
+          ],
+          "credits": "William"
+        },
+                {
+          "name": "ATR 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/ATR72-UAEAF-67.png"
+          ],
+          "credits": "William"
+        }
+      ],
       "labels": [
         "Texture"
       ]
