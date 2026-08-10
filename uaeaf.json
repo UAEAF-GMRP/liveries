@@ -1880,10 +1880,24 @@
               ],
               "credits": "BorecPepik"
           },
-        {
+          {
               "name": "A10 Default",
               "texture": [
                   "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A-10C-default-UAEAF.png"
+              ],
+              "credits": "BorecPepik"
+          },
+          {
+              "name": "A10 gray with mouth",
+              "texture": [
+                  "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A-10C-gray-mouth-UAEAF.png"
+              ],
+              "credits": "BorecPepik"
+          },
+          {
+              "name": "A10 gray",
+              "texture": [
+                  "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A-10C-gray-UAEAF.png"
               ],
               "credits": "BorecPepik"
           }
