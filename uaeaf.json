@@ -1533,6 +1533,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MIRAGE-2000.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Mirage 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/MIRAGE-2000-1-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
