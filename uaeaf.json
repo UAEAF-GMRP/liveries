@@ -1713,6 +1713,21 @@
         "Wing texture"
       ]
     },
+    "2948": {
+      "name": "Tupolev Tu-144D",
+      "liveries": [
+        {
+          "name": "gov",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Tu-144-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture",
+      ]
+    },
     "5203": {
       "name": "Boeing b737-600",
       "liveries": [],
