@@ -1301,7 +1301,7 @@
       ]
     },
     "3292": {
-      "name": "Boeing I Neptune",
+      "name": "Boeing P8i Neptune",
       "liveries": [
         {
           "name": "UAEAF P8I",
@@ -1316,6 +1316,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-p8i-2.png"
           ],
           "credits": "tarunbeast"
+        },
+        {
+          "name": "UAE p8i 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/P-8i-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
@@ -1526,6 +1533,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MIRAGE-2000.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Mirage 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/MIRAGE-2000-1-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
@@ -1706,6 +1720,21 @@
         "Wing texture"
       ]
     },
+    "2948": {
+      "name": "Tupolev Tu-144D",
+      "liveries": [
+        {
+          "name": "gov",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Tu-144-gov-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
     "5203": {
       "name": "Boeing b737-600",
       "liveries": [],
@@ -1880,10 +1909,24 @@
               ],
               "credits": "BorecPepik"
           },
-        {
+          {
               "name": "A10 Default",
               "texture": [
                   "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A-10C-default-UAEAF.png"
+              ],
+              "credits": "BorecPepik"
+          },
+          {
+              "name": "A10 gray with mouth",
+              "texture": [
+                  "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A-10C-gray-mouth-UAEAF.png"
+              ],
+              "credits": "BorecPepik"
+          },
+          {
+              "name": "A10 gray",
+              "texture": [
+                  "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/A-10C-gray-UAEAF.png"
               ],
               "credits": "BorecPepik"
           }
