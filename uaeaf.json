@@ -14,7 +14,7 @@
       "name": "Cessna 172 Skyhawk",
       "liveries": [
         {
-          "name": "C172?",
+          "name": "C172 wtf",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-c172.png"
           ],
@@ -369,16 +369,16 @@
           "credits": "BorecPepik"
         },
         {
-          "name": "Su-35 - 2",
+          "name": "Tiger Flanker",
           "texture": [
-            "https://i.ibb.co/xt4SHmp3/UAEAF-Su-35.jpg"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF.png"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "Desert Flanker",
+          "name": "Gray Camo",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF.png"
+            "https://i.ibb.co/xt4SHmp3/UAEAF-Su-35.jpg"
           ],
           "credits": "BorecPepik"
         },
@@ -544,7 +544,7 @@
       "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
       "liveries": [
         {
-          "name": "UAEAF F/A-18F",
+          "name": "Blue Camo",
           "texture": [
             "https://i.ibb.co/My8bQSXs/UAEAF-FA18.png"
           ],
@@ -565,7 +565,7 @@
           "credits": "BorecPepik"
         },
                 {
-          "name": "stealthy",
+          "name": "Stealthy",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/FA-18-UAEAF-3.png"
           ],
@@ -608,20 +608,20 @@
           "credits": "BorecPepik"
         },
         {
-          "name": "Rafale 3",
+          "name": "Default Livery",
           "texture": [
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
-            "https://i.ibb.co/qLnJWM3F/Rafale-UAEAF-1.png",
+            "https://i.ibb.co/BHdm95R6/Rafale-UAEAF-4.png",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "Rafale-4",
+          "name": "Rafale 3",
           "texture": [
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
-            "https://i.ibb.co/BHdm95R6/Rafale-UAEAF-4.png",
+            "https://i.ibb.co/qLnJWM3F/Rafale-UAEAF-1.png",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
           ],
