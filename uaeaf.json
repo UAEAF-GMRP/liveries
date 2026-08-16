@@ -942,14 +942,14 @@
       "materials": [
         {
           "name": "Fuse Main",
-          "baseColorFactor": [0.2, 0.2, 0.2]
+          "baseColorFactor": [0, 0, 0]
         },
         {
           "name": "Fuse Black",
           "baseColorFactor": [0, 0, 0]
         }
       ],
-      "credits": "borec"
+      "credits": "BorecPepik"
     }
   ],
   "labels": ["Texture"],
