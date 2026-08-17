@@ -611,7 +611,7 @@
           "name": "Default Livery",
           "texture": [
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
-            "https://i.ibb.co/BHdm95R6/Rafale-UAEAF-4.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Rafale-UAEAF-default.png",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
           ],
