@@ -1735,6 +1735,23 @@
         "Texture"
       ]
     },
+    "genesis_267286_5909": {
+      "name": "genesis train",
+      "liveries": [
+        {
+          "name": "government ig",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/train-back-UAEAF.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/train-front-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Carriage texture",
+        "Locomotive texture"
+      ]
+    },
     "5203": {
       "name": "Boeing b737-600",
       "liveries": [],
