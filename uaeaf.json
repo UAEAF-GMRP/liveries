@@ -511,7 +511,15 @@
     },
     "24": {
       "name": "Airbus a350-900",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "former german chancellor",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/90_1.png"
+          ],
+          "credits": "Gamer"
+        }
+      ],
       "labels": [
         "Specular shader",
         "Texture"
