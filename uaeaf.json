@@ -475,6 +475,13 @@
           "credits": "Nadech"
         },
         {
+          "name": "UAEAF Concorde Reworked",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Concord-UAEAF.png"
+          ],
+          "credits": "Borecpepik"
+        },
+        {
           "name": "Concorde x B1 lancer (without roundel)",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-concorde-2-without-roundel.png"
@@ -1738,6 +1745,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Tu-144-gov-UAEAF.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Tu-144d",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Concord-UAEAF.png"
+          ],
+          "credits": "Borecpepik"
         }
       ],
       "labels": [
