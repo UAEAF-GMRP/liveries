@@ -975,6 +975,24 @@
       "credits": "BorecPepik"
     }
   ],
+   {
+      "name": "UAEAF f-14 2 black",
+      "texture": [
+        "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-14-UAEAF.png"
+      ],
+      "materials": [
+        {
+          "name": "Fuse Main",
+          "baseColorFactor": [5, 5, 5]
+        },
+        {
+          "name": "Fuse Black",
+          "baseColorFactor": [5, 5, 5]
+        }
+      ],
+      "credits": "BorecPepik"
+    }
+  ],
   "labels": ["Texture"],
   "logo": true,
   "name": "Grumman F-14 Tomcat"
