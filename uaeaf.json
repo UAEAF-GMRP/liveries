@@ -879,8 +879,14 @@
           },
     "kc135_267286_5727": {
       "name": "KC-135",
-      "liveries": [
-        "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/KC-135-UAEAF.png"
+      "liveries": [     
+      {
+          "name": "Stratotanker",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/KC-135-UAEAF.png"
+          ],
+          "credits": "BorecPepik the most legendary of all mrpers"
+        }
       ],
       "labels": [
         "Texture"
