@@ -876,6 +876,15 @@
         "Fuselage texture",
         "Wing texture"
       ]
+          },
+    "kc135_267286_5727": {
+      "name": "KC-135",
+      "liveries": [
+        "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/KC-135-UAEAF.png"
+      ],
+      "labels": [
+        "Texture"
+      ]
     },
     "1018": {
       "name": "Embraer ERJ 190",
