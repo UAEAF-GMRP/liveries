@@ -458,6 +458,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Rashed.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Borec's Personal",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/personal%20liveries%20and%20all%20that/su-35-UAEAF-digital-camo-personal.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
