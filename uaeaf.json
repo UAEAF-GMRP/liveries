@@ -1,5 +1,5 @@
 {
-  "name": "🇦🇪 United Arab Emirates 🇦🇪",
+  "name": "🇦🇪 United Arab Emirates Virtual Airline 🇦🇪",
   "color": "red",
   "bgcolor": "#f0d795",
   "aircrafts": {
@@ -14,7 +14,7 @@
       "name": "Cessna 172 Skyhawk",
       "liveries": [
         {
-          "name": "C172?",
+          "name": "wtf",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-c172.png"
           ],
@@ -156,7 +156,7 @@
         {
           "name": "Desert Falcon",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/F-16-UAEAF.jpg"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-16-UAEAF-desert-camo.png"
           ]
         },
         {
@@ -213,6 +213,12 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-7.jpg"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Onyx's personal",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-16-onyx-personal.png"
+          ]
         }
       ],
       "labels": [
@@ -361,7 +367,7 @@
           ],
           "credits": "Nadech"
         },
-         {
+        {
           "name": "Super Flanker",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-splinter-camo.png"
@@ -369,93 +375,100 @@
           "credits": "BorecPepik"
         },
         {
-          "name": "Su-35 - 2",
+          "name": "Digital Camo",
           "texture": [
-            "https://i.ibb.co/xt4SHmp3/UAEAF-Su-35.jpg"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/su-35-UAEAF-digital-camo.png"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "Desert Flanker",
+          "name": "Tiger Flanker",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF.png"
           ],
           "credits": "BorecPepik"
         },
         {
+          "name": "Gray Camo",
+          "texture": [
+            "https://i.ibb.co/xt4SHmp3/UAEAF-Su-35.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
           "name": "General Tarun",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Tarun.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-Tarun.png"
           ],
           "credits": "BorecPepik"
         },
         {
           "name": "General Infinity",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Infinity.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-Infinity.png"
           ],
           "credits": "BorecPepik"
         },
         {
           "name": "General Chicken",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-CHICKEN.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-CHICKEN.png"
           ],
           "credits": "BorecPepik"
         },
         {
           "name": "CW1",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-CW1.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-CW1.png"
           ],
           "credits": "BorecPepik"
         },
         {
           "name": "23rd Caliph",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Caliph.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-Caliph.png"
           ],
           "credits": "BorecPepik"
         },
         {
           "name": "27th Yalla",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Yalla.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-Yalla.png"
           ],
           "credits": "BorecPepik"
         },
           {
           "name": "56th Fursan",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Fursan.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-Fursan.png"
           ],
           "credits": "BorecPepik"
         },
         {
           "name": "CW2",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-CW2.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-CW2.png"
           ],
           "credits": "BorecPepik"
         },
          {
           "name": "157th Shaheen",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-shaheen.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-shaheen.png"
           ],
           "credits": "BorecPepik"
         },
         {
           "name": "162nd Kareem",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Kareem.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-Kareem.png"
           ],
           "credits": "BorecPepik"
         },
         {
           "name": "174th Rashed",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Su-35-UAEAF-Rashed.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-Rashed.png"
           ],
           "credits": "BorecPepik"
         }
@@ -473,6 +486,13 @@
             "https://i.ibb.co/PZCcGPDx/UAEAF-Concorde.png"
           ],
           "credits": "Nadech"
+        },
+        {
+          "name": "UAEAF Concorde Reworked",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Concord-UAEAF.png"
+          ],
+          "credits": "Borecpepik"
         },
         {
           "name": "Concorde x B1 lancer (without roundel)",
@@ -511,7 +531,16 @@
     },
     "24": {
       "name": "Airbus a350-900",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "former german chancellor",
+          "texture": [
+            "lol",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/90_1.png"
+          ],
+          "credits": "Gamer"
+        }
+      ],
       "labels": [
         "Specular shader",
         "Texture"
@@ -544,9 +573,9 @@
       "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
       "liveries": [
         {
-          "name": "UAEAF F/A-18F",
+          "name": "Blue Camo",
           "texture": [
-            "https://i.ibb.co/My8bQSXs/UAEAF-FA18.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/FA-18-sea-hornet-UAEAF.png"
           ],
           "credits": "BorecPepik"
         },
@@ -565,7 +594,7 @@
           "credits": "BorecPepik"
         },
                 {
-          "name": "stealthy",
+          "name": "Stealthy",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/FA-18-UAEAF-3.png"
           ],
@@ -608,20 +637,20 @@
           "credits": "BorecPepik"
         },
         {
-          "name": "Rafale 3",
+          "name": "Default Livery",
           "texture": [
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
-            "https://i.ibb.co/qLnJWM3F/Rafale-UAEAF-1.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Rafale-UAEAF-default.png",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
           ],
           "credits": "BorecPepik"
         },
         {
-          "name": "Rafale-4",
+          "name": "Rafale 3",
           "texture": [
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
-            "https://i.ibb.co/BHdm95R6/Rafale-UAEAF-4.png",
+            "https://i.ibb.co/qLnJWM3F/Rafale-UAEAF-1.png",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
           ],
@@ -689,7 +718,14 @@
         {
           "name": "Desert Tiger",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-T-38-2.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/T-38-desert-tiger-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Borec's personal",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/T-38-borec-personal.png"
           ],
           "credits": "BorecPepik"
         }
@@ -805,7 +841,7 @@
         "Texture"
       ]
     },
-    "1014": {
+    "NK-V_267286_2525": {
       "name": "IL-76TD",
       "liveries": [
         {
@@ -853,6 +889,21 @@
         "Fuselage texture",
         "Wing texture"
       ]
+          },
+    "kc135_267286_5727": {
+      "name": "KC-135",
+      "liveries": [     
+      {
+          "name": "Stratotanker",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/KC-135-UAEAF.png"
+          ],
+          "credits": "BorecPepik the most legendary of all mrpers"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
     },
     "1018": {
       "name": "Embraer ERJ 190",
@@ -861,7 +912,7 @@
         "Texture"
       ]
     },
-    "1023": {
+    "md11_267286_5387": {
       "name": "McDonnell Douglas MD11",
       "liveries": [
         {
@@ -912,7 +963,7 @@
         "Texture"
       ]
     },
-    "2581": {
+"2581": {
   "index": [1, 1, 1],
   "parts": [0, 0, 0],
   "mp": "disabled",
@@ -942,14 +993,31 @@
       "materials": [
         {
           "name": "Fuse Main",
-          "baseColorFactor": [0.2, 0.2, 0.2]
+          "baseColorFactor": [0, 0, 0]
         },
         {
           "name": "Fuse Black",
           "baseColorFactor": [0, 0, 0]
         }
       ],
-      "credits": "borec"
+      "credits": "BorecPepik"
+    },
+    {
+      "name": "UAEAF f-14 2 black",
+      "texture": [
+        "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-14-UAEAF-black.png"
+      ],
+      "materials": [
+        {
+          "name": "Fuse Main",
+          "baseColorFactor": [5, 5, 5]
+        },
+        {
+          "name": "Fuse Black",
+          "baseColorFactor": [5, 5, 5]
+        }
+      ],
+      "credits": "BorecPepik"
     }
   ],
   "labels": ["Texture"],
@@ -985,7 +1053,7 @@
         "Texture"
       ]
     },
-        "2003": {
+        "b720_267286_5987": {
       "name": "boeing 720",
       "liveries": [
         {
@@ -1445,77 +1513,77 @@
         {
           "name": "General BIIIIIIRB",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-BIRB.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-15-UAEAF-BIRB.png"
           ],
           "credits": "Tarunbeast & 737"
         },
         {
           "name": "General Infinity",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-INFINITY.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-15-UAEAF-INFINITY.png"
           ],
           "credits": "Tarunbeast & 737"
         },
         {
           "name": "General Jonah",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-JONAH.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-15-UAEAF-JONAH.png"
           ],
           "credits": "Tarunbeast & 737"
         },
         {
           "name": "CW1",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-CW1.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-15-UAEAF-CW1.png"
           ],
           "credits": "Tarunbeast & 737"
         },
         {
           "name": "23rd Caliph",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-CL23.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-15-UAEAF-CL23.png"
           ],
           "credits": "Tarunbeast & 737"
         },
         {
           "name": "27th Yalla",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-YL27.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-15-UAEAF-YL27.png"
           ],
           "credits": "Tarunbeast & 737"
         },
         {
           "name": "56th Fursan",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-FR56.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-15-UAEAF-FR56.png"
           ],
           "credits": "Tarunbeast & 737"
         },
         {
           "name": "CW2",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-CW2.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-15-UAEAF-CW2.png"
           ],
           "credits": "Tarunbeast & 737"
         },
         {
           "name": "157th Shaheen",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-SH157.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-15-UAEAF-SH157.png"
           ],
           "credits": "Tarunbeast & 737"
         },
         {
           "name": "162nd Kareem",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-KR162.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-15-UAEAF-KR162.png"
           ],
           "credits": "Tarunbeast & 737"
         },
         {
           "name": "174th Rashed",
           "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/F-15-UAEAF-RH174.png"
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-15-UAEAF-RH174.png"
           ],
           "credits": "Tarunbeast & 737"
         }
@@ -1567,7 +1635,7 @@
         "Texture"
       ]
     },
-    "4402": {
+    "77f_380019_6079": {
       "name": "Boeing b777-200F",
       "liveries": [
         {
@@ -1720,7 +1788,7 @@
         "Wing texture"
       ]
     },
-    "2948": {
+    "tu144_267286_6039": {
       "name": "Tupolev Tu-144D",
       "liveries": [
         {
@@ -1729,10 +1797,34 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Tu-144-gov-UAEAF.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Tu-144d",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/Concord-UAEAF.png"
+          ],
+          "credits": "Borecpepik"
         }
       ],
       "labels": [
         "Texture"
+      ]
+    },
+    "genesis_267286_5909": {
+      "name": "genesis train",
+      "liveries": [
+        {
+          "name": "government ig",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/train-back-UAEAF.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/train-front-UAEAF.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Carriage texture",
+        "Locomotive texture"
       ]
     },
     "5203": {
