@@ -9,6 +9,7 @@
       "labels": [
         "Texture"
       ]
+    
     },
     "2": {
       "name": "Cessna 172 Skyhawk",
@@ -220,6 +221,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-16-onyx-personal.png"
           ],
           "credits": "BorecPepik & Onyx"
+        },
+        {
+          "name": "Borec's personal",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/F-16-borec-personal.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
@@ -470,13 +478,6 @@
           "name": "174th Rashed",
           "texture": [
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-UAEAF-Rashed.png"
-          ],
-          "credits": "BorecPepik"
-        },
-        {
-          "name": "Borec's personal",
-          "texture": [
-            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/Su-35-borec-personal.png"
           ],
           "credits": "BorecPepik"
         }
