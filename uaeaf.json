@@ -9,7 +9,6 @@
       "labels": [
         "Texture"
       ]
-    
     },
     "2": {
       "name": "Cessna 172 Skyhawk",
@@ -1317,6 +1316,28 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAE_A350.png"
           ],
           "credits": "boing"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+        "2989": {
+      "name": "MQ9B Reaper",
+      "liveries": [
+        {
+          "name": "UAEAF Reaper",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MQ9.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Happy drone",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/mq9-reaper-uaeaf.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
