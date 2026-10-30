@@ -1324,6 +1324,7 @@
       ]
     },
     "2989": {
+      "name": "MQ9B Reaper"
       "liveries": [
         {
           "name": "UAEAF Reaper",
@@ -1331,12 +1332,18 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MQ9.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "Happy drone",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/mq9-reaper-uaeaf.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
         "Texture"
-      ],
-      "name": "MQ9B Reaper"
+      ]
     },
     "3011": {
       "name": "Airbus a320-232",
