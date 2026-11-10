@@ -1246,7 +1246,15 @@
     },
     "2871": {
       "name": "Airbus a320neo",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "UAE gov",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/a320neo-uaeaf.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
       "labels": [
         "Texture"
       ]
