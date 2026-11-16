@@ -19,6 +19,13 @@
             "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-c172.png"
           ],
           "credits": "BorecPepik"
+        },
+        {
+          "name": "why",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAEAF-2-c172.png"
+          ],
+          "credits": "BorecPepik"
         }
       ],
       "labels": [
