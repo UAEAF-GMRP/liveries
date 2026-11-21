@@ -1968,7 +1968,15 @@
     },
     "5499": {
       "name": "CubCrafters CC19 XCub",
-      "liveries": [],
+      "liveries": [
+       {
+          "name": "a1rbus personal",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/personal/xcub-a1r-personal.png"
+          ],
+          "credits": "a1rbus"
+        }
+      ],
       "labels": [
         "Texture"
       ]
